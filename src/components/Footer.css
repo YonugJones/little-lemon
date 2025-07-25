@@ -1,0 +1,13 @@
+.footer-columns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.doormat-navigation-column li,
+.contact-column li,
+.social-media-links-column li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
